@@ -2,7 +2,7 @@
 
 # Senior Software Engineer | Frontend Developer | Gen AI | Reactjs
 
-Frontend Engineer specializing in scalable UI architecture, micro-frontend architecture, and high-performance web applications. Proven experience in improving web performance optimization (reduced load time by 57%) and accelerating CI/CD deployment pipelines (reduced deployment time by 60%). Led frontend architecture design for enterprise-grade products used across 120+ countries. Expertise in React.js, Next.js, JavaScript (ES6+), TypeScript, and building config-driven UI systems, design systems, and component libraries. Strong focus on performance optimization, code splitting, lazy loading, SSR/SSG, and scalable frontend systems.
+Frontend Engineer with 4+ years of experience specializing in scalable UI architecture, micro-frontend architecture, and high-performance web applications. Proven experience in improving web performance optimization (reduced load time by 57%) and accelerating CI/CD deployment pipelines (reduced deployment time by 60%). Led frontend architecture design for enterprise-grade products used across 120+ countries. Expertise in React.js, Next.js, JavaScript (ES6+), TypeScript, and building config-driven UI systems, design systems, and component libraries. Strong focus on performance optimization, code splitting, lazy loading, SSR/SSG, and scalable frontend systems.
 
 
 ## 🌐 Socials:
